@@ -1,2 +1,5 @@
-# TIL
-Today I Learn
+
+
+# 🎃Today I Learn  
+1️⃣ 주말 제외 매일커밋하기  
+2️⃣ 학습에 목표로 공부하기
